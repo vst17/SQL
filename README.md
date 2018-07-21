@@ -1,2 +1,2 @@
 # SQL
-# Running SQL queries through MYSQL WORKBENCH using Sakila database.
+Running SQL queries through MYSQL WORKBENCH using Sakila database.
